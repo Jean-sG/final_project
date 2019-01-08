@@ -1,0 +1,1 @@
+[{"__class__": "Account", "owner_id": "ba653e85-2c6c-4a08-926d-b7b7d93b9d9b", "solde": 15000.0, "currency": "EUR", "id_account": "ba34f5f1-2aea-4140-904c-d54b103584ec"}, {"__class__": "Account", "owner_id": "ba653e85-2c6c-4a08-926d-b7b7d93b9d9b", "solde": 25000.0, "currency": "USD", "id_account": "9f4b42be-7194-478b-898b-7f50584021fd"}]

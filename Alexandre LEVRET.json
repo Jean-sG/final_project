@@ -1,0 +1,1 @@
+[{"__class__": "Income", "amount": 10000.0, "currency_code": "EUR", "date": "2019-01-07 10:22:40.772264", "desc": "CASH FLOW"}, {"__class__": "Expense", "amount": 200.0, "currency_code": "EUR", "date": "2019-01-07 10:24:07.691467", "desc": "ON EST LA"}]
