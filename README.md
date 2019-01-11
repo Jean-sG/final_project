@@ -33,3 +33,9 @@ Python env 3.7
 
 ## Information 
 
+1. API RATE : <br> 
+https://api.exchangeratesapi.io/latest?symbols
+        
+2. JSON FILE : <br>
+Data are saved in data folder
+
