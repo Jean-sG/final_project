@@ -8,12 +8,27 @@ Bank Management application in python
 
 ## Introduction
 
+The  aim  of  the  project  is  to  make  a  small  application  of  bank  account  management.
+The project has no graphical part and can be run on command line. The datas will besaved in JSON format between two executions of the program. A user can have multipleaccounts  (in  one  currency,  which  is  a  choice  of  the  user)  and  can  make  the  following operations :
+    * Transfer between accounts
+    * Expense  in  any  currency  (the  change  is  done  by  getting  live  currency  rate  fromgoogle) : amount, date, and a short             description
+    * Income : amount, date and a short description
+
 
 ## Requires
 
 Python env 3.7 
 
+<p>• You'll need to : 
+  <code>pip install requests </code> to be able to import requests in order to do http request 
+  <code>pip install json </code> to be able to to  import json in order to manipulate json format 
+
+  
 ## Just tell me what to do
 
-1. Clone the project via this git repo 
-2. On your Run projet.py 
+1. Clone the project via this git repository 
+2. On your console run <code> projet.py </code>
+
+
+## Information 
+
