@@ -5,7 +5,7 @@ Bank Management application in python
 - [Introduction](#introduction)
 - [Requires](#objectives)
 - [Just tell me what to do](#just-tell-me-what-to-do)
-- Infromation(#information) 
+- [Information](#information) 
 
 ## Introduction
 
